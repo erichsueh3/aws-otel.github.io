@@ -57,7 +57,7 @@
     "react-swipeable-views": "^0.13.1",
     "typeface-roboto": "0.0.54",
     "typeface-roboto-slab": "0.0.72",
-    "camelcase-keys": "^6.1.0",
+    "camelcase-keys": "^8.0.1",
     "github-base": "^1.0.0"
   },
   "devDependencies": {
